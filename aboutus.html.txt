@@ -1,9 +1,1 @@
-<html>
-<head>
 
-</head>
-<body>
-We crearted aaa.com Site builder with user's perspective mind
-We wanted to offer a platform that would require no coding skill or design experience
-</body>
-</html>
